@@ -1,0 +1,6 @@
+introduce el angulo
+21
+El seno de 21.0 es 0.35836794954530027
+El coseno de 21.0 es 0.9335804264972017
+La tangente de 21.0 es 0.3838640350354158
+BUILD SUCCESSFUL (total time: 2 seconds)
